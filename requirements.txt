@@ -1,0 +1,24 @@
+# 智能自动打字助手 - 依赖包列表
+# Auto Typer Dependencies
+
+# 核心依赖 Core Dependencies
+pyautogui>=0.9.54
+pyperclip>=1.8.2
+
+# GUI相关依赖 GUI Dependencies
+# tkinter - Python内置GUI库，通常无需单独安装
+# tkinter is built-in with Python, usually no separate installation needed
+
+# 可选依赖 Optional Dependencies
+# 以下依赖包可能在某些系统上需要额外安装
+# The following packages might need additional installation on some systems
+
+# Linux系统可能需要的额外包 Additional packages that might be needed on Linux
+# python3-tk  # Ubuntu/Debian: sudo apt-get install python3-tk
+# tkinter-dev # 某些Linux发行版可能需要
+
+# macOS系统通常已包含所需依赖
+# macOS usually includes all required dependencies
+
+# Windows系统通常已包含所需依赖
+# Windows usually includes all required dependencies
